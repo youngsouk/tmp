@@ -41,7 +41,7 @@ def decode(base64):
 
 
 def main():
-    print (decode("cmFpbnlEaU1pR28="))
+    print ("ASCII", decode("cmFpbnlEaU1pR28="))
 
 
 if __name__ == '__main__':
